@@ -1,5 +1,6 @@
 # Fake-Prank-Virus
 This is a simple prank virus to try on your friends!
+**THIS IS BEING REVAMPED!!!**
 ** This will only work on Windows (Any version) **
 I'm in progress of the Mac and Chromebook version!
 - By making this I am not responsible for any damages done to computer etc. -
